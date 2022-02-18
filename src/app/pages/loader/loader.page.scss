@@ -1,0 +1,12 @@
+/* ion-button [color="dark"]{
+    text-transform: initial;
+    ion-content{ 
+     --background: var(--ion-color-success); 
+}
+} */
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

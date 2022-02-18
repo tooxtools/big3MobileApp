@@ -1,0 +1,7 @@
+{
+  "name": "big3MobileAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
